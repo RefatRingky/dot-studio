@@ -1,0 +1,14 @@
+.card-body img{
+    min-width: 60%;
+    max-height: 400px;
+  }
+  .extra-bg{
+    background-color: e#F2F5FF;
+  }
+  .extra-img{
+    width: 100%;
+  }
+  h1{
+    font-family: 'Dancing Script', cursive;
+   font-family: 'Poppins', sans-serif;
+  }
